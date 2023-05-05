@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>personal on Rainer Fehrenbacher</title>
+    <link>/tags/personal/</link>
+    <description>Recent content in personal on Rainer Fehrenbacher</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 May 2023 12:28:34 -0700</lastBuildDate><atom:link href="/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Autobiography</title>
+      <link>/autobiography/</link>
+      <pubDate>Fri, 05 May 2023 12:28:34 -0700</pubDate>
+      
+      <guid>/autobiography/</guid>
+      <description>I was born a long time ago, but it doesn&amp;rsquo;t seem like it was so long ago.
+I was born in the United States, but now I live in Canada.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Fri, 05 May 2023 11:50:03 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Here is some content. This is all in Markdown, which is much cooler than HTML.
+Here is some more content! And here is a list With two items! </description>
+    </item>
+    
+  </channel>
+</rss>
